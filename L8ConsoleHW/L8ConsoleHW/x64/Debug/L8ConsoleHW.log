@@ -1,0 +1,3 @@
+﻿  L8ConsoleHW.cpp
+C:\Users\user\Desktop\STEP\cpp\L8ConsoleHW\L8ConsoleHW.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  L8ConsoleHW.vcxproj -> C:\Users\user\Desktop\STEP\cpp\L8ConsoleHW\x64\Debug\L8ConsoleHW.exe
